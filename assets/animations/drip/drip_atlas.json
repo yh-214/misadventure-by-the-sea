@@ -1,0 +1,138 @@
+{
+    "frames": [
+        {
+            "filename": "drip1",
+            "frame": {
+                "w": 138,
+                "h": 381,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "drip10",
+            "frame": {
+                "w": 138,
+                "h": 381,
+                "x": 0,
+                "y": 381
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "drip2",
+            "frame": {
+                "w": 138,
+                "h": 381,
+                "x": 0,
+                "y": 762
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "drip4",
+            "frame": {
+                "w": 138,
+                "h": 381,
+                "x": 0,
+                "y": 1143
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "drip3",
+            "frame": {
+                "w": 138,
+                "h": 381,
+                "x": 0,
+                "y": 1524
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "drip6",
+            "frame": {
+                "w": 138,
+                "h": 381,
+                "x": 0,
+                "y": 1905
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "drip5",
+            "frame": {
+                "w": 138,
+                "h": 381,
+                "x": 0,
+                "y": 2286
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "drip7",
+            "frame": {
+                "w": 138,
+                "h": 381,
+                "x": 0,
+                "y": 2667
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "drip8",
+            "frame": {
+                "w": 138,
+                "h": 381,
+                "x": 0,
+                "y": 3048
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "drip9",
+            "frame": {
+                "w": 138,
+                "h": 381,
+                "x": 0,
+                "y": 3429
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

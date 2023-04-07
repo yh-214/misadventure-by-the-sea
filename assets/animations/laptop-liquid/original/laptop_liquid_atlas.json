@@ -1,0 +1,177 @@
+{
+    "frames": [
+        {
+            "filename": "laptop-liquid-12",
+            "frame": {
+                "w": 798,
+                "h": 254,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "laptop-liquid-10",
+            "frame": {
+                "w": 798,
+                "h": 254,
+                "x": 0,
+                "y": 254
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "laptop-liquid-1",
+            "frame": {
+                "w": 798,
+                "h": 254,
+                "x": 0,
+                "y": 508
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "laptop-liquid-2",
+            "frame": {
+                "w": 798,
+                "h": 254,
+                "x": 0,
+                "y": 762
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "laptop-liquid-3",
+            "frame": {
+                "w": 798,
+                "h": 254,
+                "x": 0,
+                "y": 1016
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "laptop-liquid-11",
+            "frame": {
+                "w": 798,
+                "h": 254,
+                "x": 0,
+                "y": 1270
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "laptop-liquid-4",
+            "frame": {
+                "w": 798,
+                "h": 254,
+                "x": 0,
+                "y": 1524
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "laptop-liquid-5",
+            "frame": {
+                "w": 798,
+                "h": 254,
+                "x": 0,
+                "y": 1778
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "laptop-liquid-6",
+            "frame": {
+                "w": 798,
+                "h": 254,
+                "x": 0,
+                "y": 2032
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "laptop-liquid-7",
+            "frame": {
+                "w": 798,
+                "h": 254,
+                "x": 0,
+                "y": 2286
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "laptop-liquid-8",
+            "frame": {
+                "w": 798,
+                "h": 254,
+                "x": 0,
+                "y": 2540
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "laptop-liquid-9",
+            "frame": {
+                "w": 798,
+                "h": 254,
+                "x": 0,
+                "y": 2794
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "laptop-liquid-0",
+            "frame": {
+                "w": 798,
+                "h": 254,
+                "x": 0,
+                "y": 3048
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/phaser@3.55.2/dist/phaser-arcade-physics.min.js"></script>
+    <script src="utils.js"></script>
+    <script src="puzzle.js"></script>
+    <script src="start_screen.js"></script>
+    <script src="main_gameplay.js"></script>
+    <script src="clear_screen.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+</style>
+</head>
+<body>
+    <script>
+        const config = {
+            type: Phaser.AUTO,
+            // parent: 'phaser-example',
+            width: 864,
+            height: 540,
+            scene: [ start_scene, main_game, clear_scene]
+        };
+        const game = new Phaser.Game(config);
+    </script>
+
+</body>
+</html>
